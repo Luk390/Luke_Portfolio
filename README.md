@@ -8,3 +8,5 @@ My Portfolio
 * Built a basic API using Flask
 
 The best models were the Random Forest Classifier and Gradient Boosting Classifier.
+
+[![alt text](https://github.com/Luk390/Luke_Portfolio/blob/master/images/roc_curve.png "Roc Curve")](https://github.com/Luk390/wine_project)
