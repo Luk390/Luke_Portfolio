@@ -1,6 +1,3 @@
-# Luke_Portfolio
-My Portfolio
-
 # [Project 1: Wine Quality Classifier](https://github.com/Luk390/wine_project)
 
 * Created a model which can classify whether a wine is good (>= 7/10) or bad (< 7/10), with 95% accuracy from the physiochemical properties
